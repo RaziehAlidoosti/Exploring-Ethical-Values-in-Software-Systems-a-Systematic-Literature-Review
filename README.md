@@ -21,9 +21,10 @@ This is the root directory of the repository. The directory is structured as fol
      |--- data/
             |
             |--- Selection and Extraction Sheet.xlsx
-                    The spreadsheet of the SLR, including sheets "Automated Query Selection", "Data extraction", and "Tag   Descriptions".
-    .
+                    The spreadsheet of the SLR, including sheets "Automated Query Selection", "Data extraction", and "Tag Descriptions".
+     .
      |
-     |--- Online-Appendices/
-     |
+     |--- Online-Appendices.pdf/
+            |
+            |--- This document consists of five appendices, i.e., Appendix A-E, each including table(s) to provide more information for the interested reader.
      

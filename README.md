@@ -3,7 +3,7 @@ This repository is a companion page for this systematic literature review (SLR),
 
 
 
-The study was conducted by the following researchers:
+The study was carried out by the following researchers:
 * [Razieh Alidoosti](mailto:razieh.alidoosti@gssi.it) (Vrije Universiteit Amsterdam & Gran Sasso Science Institute)
 * [Patricia Lago](mailto:p.lago@vu.nl) (Vrije Universiteit Amsterdam)
 * [Maryam Razavian](mailto:M.Razavian@tue.nl) (Eindhoven University of Technology)

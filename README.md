@@ -1,5 +1,5 @@
 # Ethics in Software Engineering: a Systematic Literature Review
-This repository is a companion page for theis systematic literature review, which contains all the material required for replicating the study.
+This repository is a companion page for this systematic literature review (SLR), which contains all the material required for replicating the study.
 
 
 
@@ -21,7 +21,7 @@ This is the root directory of the repository. The directory is structured as fol
      |--- data/
             |
             |--- Selection and Extraction Sheet.xlsx
-                    The main protocol (spreadsheet) for the SLR with all considerd SLR phases (selection Phase 1-3, extraction).
+                    The spreadsheet of the SLR, including sheets "Automated Query Selection", "Data extraction", and "Tag   Descriptions".
     .
      |
      |--- Online-Appendices/

@@ -21,7 +21,7 @@ This is the root directory of the repository. The directory is structured as fol
      |--- data/
             |
             |--- Selection and Extraction Sheet.xlsx
-                    The spreadsheet of the SLR, including sheets "Automated Query Selection", "Data extraction", and "Tag Descriptions".
+                    The spreadsheet of the SLR, including "Automated Query Selection", "Data extraction", and "Tag Descriptions".
      .
      |
      |--- Online-Appendices.pdf/

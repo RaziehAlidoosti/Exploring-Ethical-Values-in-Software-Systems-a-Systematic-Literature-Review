@@ -1,6 +1,47 @@
-Replication material:
-This repository contains the materials of the game (i.e., the game cards and templates, participant survey and results, and results of pilot sessions) as below:
-1. Documetation -> Ethics-Aware DecidArch Game Material.zip: Including game material and rules
-2. Documetation -> Ethics-Aware DecidArch-ParticipantSurvey.pdf: The survey used to gather responses from participants
-3. Documetation -> Pilot Session Results.pdf: The results of the pilot sessions of the game
-4. Data -> Ethics-Aware DecidArch-Survey results.csv: The participant responses to the survey statements
+# Let's Start Reducing the Carbon Footprint of Academic Conferences.
+This repository is a companion page for the following publication:
+> Anonymous Authors, blinded for review. 2022. Let's Start Reducing the Carbon Footprint of Academic Conferences.
+
+It contains all the material required for replicating the study, including: SLR-protocol, figures, results.
+
+Quick Links
+---------------
+
+* [SLR_Protocol.xlsx](data/SLR_Protocol.xlsx)
+* [Appendix A - Interview-Survey-Design.pdf](data/Interview-Survey-Design.pdf)
+* [Appendix B - Table_Carbon-Footprint-Factors.pdf](results/Table_Carbon-Footprint-Factors.pdf)
+* [Appendix C - Table_Sustainability-Dimensions.pdf](results/Table_Sustainability-Dimensions.pdf)
+
+Repository Structure
+---------------
+This is the root directory of the repository. The directory is structured as follows:
+
+    SLR-Carbon-Footprint-replication-package
+     .
+     |
+     |--- data/
+            |
+            |--- Interview-Survey-Design.pdf
+                    Appendix A - Interview survey structure and questions.
+            |--- SLR_Protocol.xlsx
+                    The main protocol (spreadsheet) for the SLR with all considerd SLR phases (selection Phase 1-3, extraction).
+            |--- SLR_FINAL_PS.bib
+                    All final primary studies for the SLR part, exported from Zotero as BibTex file.
+     |
+     |--- results/
+            |
+            |--- /figures
+                     |--- *.drawio
+                             Figures raw sources for draw.io.
+                     |--- *.png, *.pdf
+                             Contains all produced and used figures throughout this research.
+            |
+            |--- Table_Carbon-Footprint-Factors.pdf
+                    Appendix B - Result table containing the carbon footprint factors.
+            |--- Table_Sustainability-Dimensions.pdf
+                    Appendix C - Result table containing the sustainability impact.
+     |
+     |--- src/
+            |
+            |--- SLR_Results.R
+                    R-Script for the statistics and figures used throughout this research. The final figures can be find in the folder 'figures'.              

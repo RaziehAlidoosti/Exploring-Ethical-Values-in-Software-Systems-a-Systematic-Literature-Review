@@ -1,6 +1,6 @@
-# ...
-This repository is a companion page for the following publication:
-Ethics in Software Engineering: a Systematic Literature Review
+# Ethics in Software Engineering: a Systematic Literature Review
+This repository is a companion page for theis systematic literature review, which contains all the material required for replicating the study.
+
 
 
 The study was conducted by the following researchers:
@@ -9,19 +9,18 @@ The study was conducted by the following researchers:
 * Maryam Razavian (Eindhoven University of Technology)
 * Antony Tang (Swinburne University of Technology & Vrije Universiteit Amsterdam)
 
-It contains all the material required for replicating the study, including: SLR-protocol, figures, results.
 
 
 Repository Structure
 ---------------
 This is the root directory of the repository. The directory is structured as follows:
 
-    SLR-Carbon-Footprint-replication-package
+    SLR-Ethics-in-Software-Engineering
      .
      |
      |--- data/
             |
-            |--- SLR_Protocol.xlsx
+            |--- Selection and Extraction Sheet.xlsx
                     The main protocol (spreadsheet) for the SLR with all considerd SLR phases (selection Phase 1-3, extraction).
     .
      |

@@ -4,10 +4,10 @@ This repository is a companion page for this systematic literature review (SLR),
 
 
 The study was conducted by the following researchers:
-* Razieh Alidoosti (Vrije Universiteit Amsterdam & Gran Sasso Science Institute)
-* Patricia Lago (Vrije Universiteit Amsterdam)
-* Maryam Razavian (Eindhoven University of Technology)
-* Antony Tang (Swinburne University of Technology & Vrije Universiteit Amsterdam)
+* [Razieh Alidoosti](mailto:razieh.alidoosti@gssi.it) (Vrije Universiteit Amsterdam & Gran Sasso Science Institute)
+* [Patricia Lago](mailto:p.lago@vu.nl) (Vrije Universiteit Amsterdam)
+* [Maryam Razavian](mailto:M.Razavian@tue.nl) (Eindhoven University of Technology)
+* [Antony Tang](mailto:atang@swin.edu.au) (Swinburne University of Technology & Vrije Universiteit Amsterdam)
 
 
 

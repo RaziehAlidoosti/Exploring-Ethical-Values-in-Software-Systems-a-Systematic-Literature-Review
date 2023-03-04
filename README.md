@@ -11,14 +11,6 @@ The study was carried out by the following researchers:
 
 
 
-Quick Links
----------------
-
-* [Selection and Extraction Sheet.xlsx](data/Selection and Extraction Sheet.xlsx)
-* ...
-
-
-
 Repository Structure
 ---------------
 This is the root directory of the repository. The directory is structured as follows:

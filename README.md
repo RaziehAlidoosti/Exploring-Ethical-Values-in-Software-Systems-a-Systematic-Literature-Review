@@ -24,6 +24,6 @@ This is the root directory of the repository. The directory is structured as fol
                     The main protocol (spreadsheet) for the SLR with all considerd SLR phases (selection Phase 1-3, extraction).
     .
      |
-     |--- Online - Appendices/
+     |--- Online-Appendices/
      |
      

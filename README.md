@@ -25,5 +25,5 @@ This is the root directory of the repository. The directory is structured as fol
      .
      |
      |--- Online-Appendices.pdf
-                 This document consists of five appendices, i.e., Appendix A-E, each including table(s) to provide more information for the interested reader.
+                 This document consists of four appendices, i.e., Appendix A-D, each including table(s) to provide more information for the interested reader.
      
